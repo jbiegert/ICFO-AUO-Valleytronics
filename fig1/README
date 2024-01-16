@@ -1,0 +1,3 @@
+The files *bands* contain the band structure. The first column is the k-path points in atomic units. The following N columns correspond to the band energies (in atomic units) of the N bands.
+The files *special_k_points* contains the information to link the k-path points to the high symmetry points.
+The files CEP0, CEP180 and CEP90 correspond to different orientations of the bicircular field. For CEP0, valley polarization is at K, for CEP180 at K' and for 90 there is no valley polarization.
