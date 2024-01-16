@@ -1,0 +1,4 @@
+Data files "k_population_{0,30,60,90}deg.dat" contains the data for panel a, in order. The data is separated in three columns. The first two columns correspond to the kx and ky axis, while the third column contains the sum of the electron population in all of the conduction bands of bilayer MoS2.
+
+Data file "probe_second_harmonic.dat" contains the data for panel b and c. The data is separated in four columns. The first column corresponds to the trefoil orientation in units of half the 2w period. The second column is the component of the probe-generated second harmonic along the G-M direction. The third column is the component of the probe-generated second harmonic along the G-K direction. The fourth column is the total signal of the probe-generated second harmonic.
+
