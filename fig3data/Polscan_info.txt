@@ -1,0 +1,17 @@
+Data stacked:
+
+angle in 0...360deg
+norm(H8(angle)) at max pump-probe overlap (average of index 7,8 of pp-delay), mirrored from 180deg scan
+norm(H8(angle)) at before pump-probe overlap (average of index 18,19)
+norm(H8(angle)) at after pump-probe overlap (average of index 0,1)
+
+H8pump/H8unpump * Error 
+
+
+
+angle in 0...180deg
+H8(angle) at max pump-probe overlap (index 7 of pp-delay)
+H8(angle) at other max pump-probe overlap (index 8 of pp-delay)
+H8(angle) at before pump-probe overlap (index 19)
+H8(angle) at before pump-probe overlap (index 18)
+

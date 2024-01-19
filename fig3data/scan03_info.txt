@@ -1,0 +1,5 @@
+Data stacked:
+
+H8_ellip, (sum(H8(deg_min))/sum(H8(deg_max)))
+H8_err_full,
+probe_pos_mm
